@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(172, 172, 172);
+}
+
+table,
+tr,
+td {
+  padding: 30px;
+  background-color: rgb(44, 44, 44);
+  border: unset;
+}
+
+table {
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 10px 10px 16px rgb(123 123 123);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 75px;
+}
+
+input[type="text"] {
+  height: 60px;
+  width: 300px;
+  text-align: right;
+  background-color: white;
+  border-color: black;
+  font-size: 30px;
+  font: bolder;
+}
+
+#step5 {
+  padding: 0px 0px;
+
+}
+
+#step8 {
+  background-color: rgb(100, 0, 150);
+  color: rgb(67, 173, 115);
+  text-align: center;
+}
+
+#step9 {
+  background-color: rgb(115, 0, 135);
+}
+
+.butt:hover {
+  color: white;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 10px 10px 16px rgb(123 123 123);
+}
+
+.button:active {
+  border-radius: 30px;
+  padding: 30px;
+  box-shadow: 10px 10px 16px rgb(123 123 123);
+}
